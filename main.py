@@ -6,7 +6,7 @@ customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("green")
 
 root = customtkinter.CTk()
-root.title("Note keeper")
+root.title("Appearance mode")
 root.geometry("600x350")
 
 #fuctions
